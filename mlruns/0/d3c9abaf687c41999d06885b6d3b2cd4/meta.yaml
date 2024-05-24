@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sawsa/Documents/Data/GitHub_projects/MLOps_course2024/mlruns/0/d3c9abaf687c41999d06885b6d3b2cd4/artifacts
+end_time: 1716244314938
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3c9abaf687c41999d06885b6d3b2cd4
+run_name: adorable-yak-619
+run_uuid: d3c9abaf687c41999d06885b6d3b2cd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716244314903
+status: 4
+tags: []
+user_id: sawsa

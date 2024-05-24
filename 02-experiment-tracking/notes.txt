@@ -1,0 +1,29 @@
+Commands used for this homework:
+- mlflow --version
+- python preprocess_data.py --raw_data_path "data" --dest_path "output"
+- python train.py --data_path "output"
+-  mlflow ui
+- mlflow ui --backend-store-uri sqlite:///mlflow.db --default-artifact-root ./artifacts
+OR Example:
+- mlflow ui --backend-store-uri sqlite:///mlflow.db --default-artifact-root ./artifacts --host 0.0.0.0 --port 5000 --workers 4 --gunicorn-opts "--threads 4"
+- conda install hyperopt
+
+Homework:
+
+Q1. Install MLflow:
+version 2.13.0
+
+Q2. Download and preprocess the data:
+4 files
+
+Q3. Train a model with autolog:
+the value of the min_samples_split parameter: 2
+
+Q4. Launch the tracking server locally:
+default-artifact-root
+
+Q5. Tune model hyperparameters: 
+Best val rmse: 5.355041749098929
+
+Q6. Promote the best model to the model registry
+test_rmse :5.567408012462019

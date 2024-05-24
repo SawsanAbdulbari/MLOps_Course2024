@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sawsa/Documents/Data/GitHub_projects/MLOps_course2024/02-experiment-tracking/mlruns/0/7735234ebb2c479aa96d47a20fc85e0c/artifacts
+end_time: 1716557819583
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7735234ebb2c479aa96d47a20fc85e0c
+run_name: auspicious-seal-640
+run_uuid: 7735234ebb2c479aa96d47a20fc85e0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716557801570
+status: 3
+tags: []
+user_id: sawsa

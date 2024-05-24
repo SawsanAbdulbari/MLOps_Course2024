@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sawsa/Documents/Data/GitHub_projects/MLOps_course2024/02-experiment-tracking/mlruns/0/113e1f17174c456d8fe704e4114caf21/artifacts
+end_time: 1716244162825
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 113e1f17174c456d8fe704e4114caf21
+run_name: colorful-sheep-172
+run_uuid: 113e1f17174c456d8fe704e4114caf21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716244143136
+status: 3
+tags: []
+user_id: sawsa
